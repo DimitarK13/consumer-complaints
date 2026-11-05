@@ -10,6 +10,8 @@ This analysis can be particularly interesting to people who are looking to chang
 
 To obtain the data for this project, run the download-data.py script found in scripts/. The data will get downloaded in data/raw/.
 
+The raw dataset is used only in '01-initial-analysis.ipynb' and '02-data-preparation.ipynb' files, both found in notebooks/. '02-data-preparation.ipynb' cleans the data and creates a new consumer_complaints.csv file, which gets saved in data/processed/consumer_complaints.csv
+
 ## Dataset
 
 - Source: Kaggle

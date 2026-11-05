@@ -29,3 +29,11 @@ This project aims to explore patterns in US consumer financial complaints to ide
 ## 5. Hypotheses
 
 - The number of complaints has generally increased over time.
+
+## 6. Data Quality Assessment
+
+The consumer_disputed column contains approximately 14% missing values. This is not random, as the CFPB discontinued its consumer dispute option in April 2017.
+
+This column indicates whether a consumer disputed the company's response to their complaint (Yes or No).
+
+Instead of removing rows with missing values, they will be preserved as another category - 'Not available'.
