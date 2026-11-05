@@ -65,3 +65,17 @@ To see it in more detail, I plotted each month for each year. This gives us more
 ![Number of Complaints Over Time](../visualizations/detailed-complaint-volume-over-time.png)
 
 The result aligns directly with the hypotheses - that the number of complaints has generally increased over time.
+
+### Which issues have the highest share of disputed complaints?
+
+To find out which isues have the highest share of disputed complaints, I grouped the data by issue, filtered rows where 'consumer_disputed' is positive, calculated the percentage for each issue, and got the 5 largest results.
+
+Results:
+
+1. Lender damaged or destroyed property - 66.67%
+2. Lender sold the property - 40.00%
+3. Cash advance - 27.80%
+4. Settlement process and costs - 27.49%
+5. Application, originator, mortgage broker - 25.86%
+
+![Percentage of Disputed Complaints by Issue](../visualizations/disputed-complaints-percentage-by-issue.png)
