@@ -51,4 +51,9 @@ electricity-demand-pricing/
 
 ## Key Findings
 
-TBD
+- 'Mortgage' generates the highest amount of complaints - 239,642 **(26.88%)**.
+- The general trend of complaints over time is **upward**.
+- 'Lender damaged or destroyed property' is the issue with highest share of disputed complaints - **66.67%**.
+- Credit cards and reporting have the **highest timely response**. Whereas virtual currency has the **lowest**.
+- Timely company responses vary primarily across **products** and, even more noticeably, individual complaint **issues**.
+- Patterns between states and submission channels (where products are concerned) stay **relatively similar**.
