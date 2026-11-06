@@ -143,3 +143,28 @@ The largest difference appears when examining issues. Excessive fees have the lo
 Overall, the findings indicate that timely company responses vary primarily across product categories and, even more noticeably, individual complaint issues. Certain types of complaints consistently have lower response rates, suggesting that the nature of the complaint may be more relevant than how it was submitted.
 
 ![Timely Response by Product](../visualizations/timely-response-by-product.png)
+
+### Are there differences by submission channel or region?
+
+To understand if there are differences by submission channel or region, I took two approaches:
+
+- Plotted a heatmap of product distribution of consumer complaints by state.
+- Plotted a heatmap of product distribution of consumer complaints by submission channel.
+
+#### States
+
+Using the heat map, we can see that patterns between states stay relatively similar. Mortgage seems to be the product that generates the most complaints in most states, then debt collection and credit reporting
+
+![Product Distribution of Complaints by State](../visualizations/product-distribution-of-consumer-complaints-by-state.png)
+
+**This heat map shows normalized percentage per state. It does NOT conclude that Mortgages generate the absolute most amount of complaints.**
+
+#### Submission channel
+
+Using the heat map, we can see that patterns between submission channels stay relatively similar. Web is clearly the most preffered option to submit complaints, for all types of products.
+
+![Product Distribution of Complaints by Submission Channel](../visualizations/product-distribution-of-consumer-complaints-by-submission-channel.png)
+
+#### Conclusion
+
+In terms of products, there doesn't seem to be strong evidence that there are differenecs by submission channels or regions (states).
